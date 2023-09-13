@@ -17,34 +17,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibonarambarri&layout=compact)
 
-## 🛠️ My Tech Stack
-
-```[Badge URLs for your tech stack can go here]```
-
-## 📜 Latest Blog Posts
-
-- [Your Blog Post 1]
-- [Your Blog Post 2]
-- [Another Interesting Article]
-
 ## 📌 Pinned Projects
 
 - [Project 1]: Brief description about this project.
 - [Project 2]: Brief description about this project.
-
-## 🤝 How to Connect with Me
-
-- [LinkedIn](Your LinkedIn URL)
-- [Twitter](Your Twitter URL)
-- [Personal Portfolio/Website](Your Website URL)
-
-## 💬 Testimonials
-
-> "Ibon is an outstanding developer. His projects always exceed expectations."  
-> **- Name, Position**
-
-> "One of the best tech articles I read was written by Ibon. Truly insightful!"  
-> **- Name, Position**
 
 ---
 
