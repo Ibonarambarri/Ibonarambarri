@@ -1,8 +1,4 @@
 # Hi there 👋, I'm [Ibon Arambarri]!
-
-![Banner o GIF animado para tu perfil](https://i.gifer.com/bfT.gif)
-
-
                                   
 ## About Me
 
