@@ -15,5 +15,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibonarambarri&layout=compact)
 
 
-[Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ppqhhzpuatw6rzpcjkpeapsyca)
+###
+
+<div align="center">
+  [Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ppqhhzpuatw6rzpcjkpeapsyca)
+</div>
+
+###
 
