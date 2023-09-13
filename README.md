@@ -17,14 +17,22 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibonarambarri&layout=compact)
 
-## 📌 Pinned Projects
+## 📌 Proyectos Destacados
 
-- [Project 1]: Brief description about this project.
-- [Project 2]: Brief description about this project.
+### 🚀 [Nombre del Proyecto](Enlace al Proyecto)
+[![Nombre del Proyecto](URL de la imagen del proyecto)](Enlace al Proyecto)
+
+🔍 **Descripción**: Una breve descripción de lo que hace tu proyecto y por qué es especial.  
+🛠️ **Tecnologías Utilizadas**: React, Node.js, etc.
 
 ---
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ppqhhzpuatw6rzpcjkpeapsyca)
+### 🚀 [Otro Proyecto](Enlace al Otro Proyecto)
+[![Otro Proyecto](URL de la imagen del otro proyecto)](Enlace al Otro Proyecto)
+
+🔍 **Descripción**: Descripción del otro proyecto.  
+🛠️ **Tecnologías Utilizadas**: Python, Flask, etc.
+
 
 ---
 
