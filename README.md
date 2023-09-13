@@ -1,7 +1,7 @@
 # Hi there 👋, I'm [Ibon Arambarri]!
 
 <div align="center">
-  <img src="[https://media.graphassets.com/iOHVkwZJSROO9LafpHiX" align="center" style="width: 100%](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fes%2Fgifs%2Fplatano&psig=AOvVaw33YEtSg71Tgsc0LUlVRE_N&ust=1694682367536000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjUwPadp4EDFQAAAAAdAAAAABAY)" />
+  <img src="[[https://media.graphassets.com/iOHVkwZJSROO9LafpHiX" />
 </div>
 
 ## About Me
