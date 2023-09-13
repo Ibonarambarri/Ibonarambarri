@@ -1,26 +1,28 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi there 👋, I'm [Your Name]!
 
-###
+![Banner o GIF animado para tu perfil](URL_AL_IMAGEN)
 
-<p align="left">😊I'm Ibon Arambarri, student of computer engineering and data science and AI at the University of Deusto.<br><br>🔭 I am currently working on my knowledge in other to reach my goal of becoming a quant banker.<br><br>📫 How to reach me: Drop me an email at [ibon.arambarri@opendeusto.es].</p>
+## About Me
 
-###
+🔭 I'm currently working on something really cool!  
+🌱 I’m currently learning everything tech-related  
+📫 How to reach me: [myemail@email.com](mailto:myemail@email.com)
 
-<h2 align="left">I code with</h2>
+## 📊 My GitHub Stats
 
-###
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide=stars)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
-###
+## 🎥 Latest YouTube Videos
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ppqhhzpuatw6rzpcjkpeapsyca)
+<!-- YOUTUBE:START -->
+- [Video Name](URL_AL_VIDEO)
+<!-- YOUTUBE:END -->
 
-###
+## 🌐 Social
 
-[Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ppqhhzpuatw6rzpcjkpeapsyca)
-###
+[![Twitter: YourTwitterUsername](https://img.shields.io/twitter/follow/YourTwitterUsername?style=social)](https://twitter.com/YourTwitterUsername)
+[![Linkedin: YourLinkedinUsername](https://img.shields.io/badge/-YourLinkedinUsername-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourLinkedinUsername/)](https://www.linkedin.com/in/YourLinkedinUsername/)
+[![GitHub YourGitHubUsername](https://img.shields.io/github/followers/YourGitHubUsername?label=follow&style=social)](https://github.com/YourGitHubUsername)
+
