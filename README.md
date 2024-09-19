@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on something really cool!<br>📖 I've always been passionate about technology.<br>🚀 Some of my main projects include SQL implementations and pathfinding algorithms.<br>🎉 Fun Fact: I have 4 dogs.<br>🥅 2023 Goals: Center a DIV.<br>📫 How to reach me: [ibon.arambarri@opendeusto.es]
+🔭 I'm currently working on something really cool!<br>📖 I've always been passionate about technology.<br>🚀 Some of my main projects include SQL implementations and pathfinding algorithms.<br>📫 How to reach me: [ibon.arambarri@opendeusto.es]
 
 
 ## 🌐 Socials:
