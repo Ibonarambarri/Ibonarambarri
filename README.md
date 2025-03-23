@@ -30,8 +30,8 @@ Proyectos que combinen ciencia de datos con desarrollo de software, especialment
 ### 📫 Contacto
 
 - 📧 Email: ibonarambarri@gmail.com
-- 🔗 LinkedIn: [Agregar tu perfil de LinkedIn]
-- 🐦 Twitter: [Agregar tu perfil de Twitter si lo tienes]
+- 🔗 LinkedIn: https://www.linkedin.com/in/ibon-arambarri-urresti-26987b254/
+- 🐦 Twitter: [[Agregar tu perfil de Twitter si lo tienes]](https://www.linkedin.com/in/ibon-arambarri-urresti-26987b254/)
 
 ---
 
