@@ -30,13 +30,10 @@ Proyectos que combinen ciencia de datos con desarrollo de software, especialment
 ### 📫 Contacto
 
 - 📧 Email: ibonarambarri@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/ibon-arambarri-urresti-26987b254/
-- 🐦 Twitter: [[Agregar tu perfil de Twitter si lo tienes]](https://www.linkedin.com/in/ibon-arambarri-urresti-26987b254/)
+- 🔗 LinkedIn: [Ibon Arambarri](https://www.linkedin.com/in/ibon-arambarri-urresti-26987b254/)
 
 ---
 
 > "Los datos son el petróleo del siglo XXI, y los algoritmos son sus motores de combustión." - Peter Sondergaard
 
 ---
-
-⭐️ De [Ibon Arambarri Urresti](https://github.com/[tu-usuario])
